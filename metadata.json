@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "An ultra-intelligent, sentient artificial superintelligence built by Raja Kumar Choudhary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
